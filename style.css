@@ -59,6 +59,10 @@ a{
    padding-top: .8rem;
    opacity: .9;
 }
+.educationflex ul li span{
+    font-weight: 900;
+    opacity: .8;
+}
 .key{
     height: auto;
 }
