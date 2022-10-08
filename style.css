@@ -136,5 +136,33 @@ a{
     .container{
         width:930px;
         margin:auto;
+        
     }
+   .obj p{
+        font-size: 1.2rem;
+        line-height: 2rem;
+    }
+    .footer p{
+        font-size: 1.2rem;
+        line-height: 2rem;
+    }
+    .personal p{
+        font-size: 1.2rem;
+        line-height: 2rem;
+    }
+    .activity li{
+        font-size: 1.2rem;
+        line-height: 2rem;
+    }
+    .education li{
+        font-size: 1.2rem;
+        line-height: 2rem;
+    }
+  .key li{
+    font-size: 1.2rem;
+    line-height: 2rem;
+  }
+  .key{
+    border-left: solid 1px gray;
+  }
 }
