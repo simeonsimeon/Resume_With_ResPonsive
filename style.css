@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    opacity: .8;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+.headerflex{
+    text-align: center;
+}
+.headerflex h1{
+    font-size: 1.5rem;
+    font-weight: 900;
+    padding-top: 3.3rem;
+    padding-bottom: 1.3rem;
+}
+.headerflex p{
+    line-height: 1.5rem;
+    padding-bottom: 1rem;
+}
+.headerflex p span{
+    font-size: 1.1rem;
+    font-weight: 700;
+    opacity: .6;
+}
+.obj{
+    height: auto;
+    padding-bottom: 1rem;
+}
+.objflex h2{
+    padding-top: 1rem;
+}
+.objflex p{
+    font-size: 1.05rem;
+    line-height: 1.2rem;
+   text-align: justify;
+   padding-left: 2.5rem;
+   padding-top: .8rem;
+   opacity: .9;
+}
+.education{
+    height: auto;
+    padding-bottom: 1rem;
+}
+.educationflex h2{
+    padding-top: 1rem;
+}
+.educationflex ul {
+    font-size: 1.05rem;
+    line-height: 1.6rem;
+   text-align: justify;
+   padding-left: 2.5rem;
+   padding-top: .8rem;
+   opacity: .9;
+}
+.key{
+    height: auto;
+}
+.keyflex h2{
+    padding-top: 1rem;
+}
+.keyflex ul {
+    font-size: 1.05rem;
+    line-height: 1.6rem;
+   text-align: justify;
+   padding-left: 2.5rem;
+   padding-top: .8rem;
+   opacity: .9;
+}
+.activity{
+    height: auto;
+}
+.activity h2{
+    padding-top: 1rem;
+}
+.activity ul {
+    font-size: 1.05rem;
+    line-height: 1.6rem;
+   text-align: justify;
+   padding-left: 2.5rem;
+   padding-top: .8rem;
+   opacity: .9;
+}
+.personal{
+    height: auto;
+
+}
+.personal h2{
+    padding-top: 1rem;
+}
+.personalflex p {
+    font-size: 1.05rem;
+    line-height: 1.8rem;
+   text-align: justify;
+   padding-left: 2.5rem;
+   padding-top: .8rem;
+   opacity: .9;
+}
+.personalflex p span{
+    font-size: 1rem;
+    font-weight: 700;
+}
+.footer{
+    height: auto;
+
+}
+.footerflex h2{
+    padding-top: 1rem;
+}
+.footerflex p {
+    font-size: 1.05rem;
+    line-height: 1.3rem;
+   text-align: justify;
+   padding-left: 2.5rem;
+   padding-top: .8rem;
+   opacity: .9;
+}
+.footerflex h3{
+    padding:1rem 0 1rem 0;
+}
+
+
+@media(min-width:760px){
+    .container{
+        width:730px;
+        margin:auto;
+    }
+}
+@media(min-width:1000px){
+    .container{
+        width:930px;
+        margin:auto;
+    }
+}
